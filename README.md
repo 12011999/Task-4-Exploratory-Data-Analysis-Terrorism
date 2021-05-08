@@ -1,4 +1,4 @@
-# Task-4-Exploratory-Data-Alanysis-Terrorism
+# Task-4-Exploratory-Data-Analysis-Terrorism
 
 (Level - Intermediate)
 
